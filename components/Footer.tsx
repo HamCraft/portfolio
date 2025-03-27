@@ -1,12 +1,12 @@
-import { AiFillGithub, AiOutlineTwitter, AiFillFacebook, AiFillInstagram } from 'react-icons/ai';
+import { AiFillGithub, AiOutlineTwitter, AiFillYoutube, AiFillInstagram } from 'react-icons/ai';
 import { FaTelegramPlane } from 'react-icons/fa';
 
 const socialLinks = [
-  { href: "https://github.com", Icon: AiFillGithub, label: "GitHub" },
-  { href: "https://x.com", Icon: AiOutlineTwitter, label: "X (Twitter)" },
-  { href: "https://facebook.com", Icon: AiFillFacebook, label: "Facebook" },
-  { href: "https://instagram.com", Icon: AiFillInstagram, label: "Instagram" },
-  { href: "https://telegram.org", Icon: FaTelegramPlane, label: "Telegram" }
+  { href: "https://github.com/HamCraft", Icon: AiFillGithub, label: "GitHub" },
+  { href: "https://x.com/HamCraftMC", Icon: AiOutlineTwitter, label: "X (Twitter)" },
+  { href: "https://youtube.com/@HamCraft", Icon: AiFillYoutube, label: "Youtube" },
+  { href: "https://instagram.com/ahmed_yaqoob_dhedhi", Icon: AiFillInstagram, label: "Instagram" },
+ 
 ];
 
 export const Footer = () => {
@@ -15,7 +15,7 @@ export const Footer = () => {
     <footer className="py-8 max-w-[1200px] mx-auto px-4">
       <div className="mt-12 flex sm:justify-between justify-center items-center gap-10 max-sm:flex-col">
         <p className="text-gray-200">
-          © 2024. All rights reserved.
+          © 2025. All rights reserved.
         </p>
 
         <ul className="flex gap-5 flex-wrap">
