@@ -1,6 +1,6 @@
 const services = [
     { id: '01', title: 'Web Design', description: 'Crafting visually stunning and user-friendly websites tailored to your brand\'s identity and goals.' },
-    { id: '02', title: 'Machine Learning', description: 'Python Developer' },
+    { id: '02', title: 'Build Agentic AI', description: 'OpenAI Agents SDK dev' },
     { id: '03', title: 'UX/UI Design', description: 'Creating intuitive and engaging user experiences and interfaces that prioritize user satisfaction and ease of use.' },
     { id: '04', title: 'Video Editing', description: 'Crafting high quality and engaging video on Capcut and Davinci Resolve' },
     { id: '05', title: 'Content Creation', description: 'Crafting engaging and relevant content, including blogs, videos, and graphics, to connect with your audience and enhance your brand story.' },
