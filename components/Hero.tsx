@@ -28,8 +28,8 @@ export const Hero = () => {
   // Simple download function
   const handleDownloadCV = () => {
     const link = document.createElement("a")
-    link.href = "/AI_Developer_Ahmed_Yaqoob_Dhedhi.docx.pdf"
-    link.download = "AI_Developer_Ahmed_Yaqoob_Dhedhi.docx.pdf"
+    link.href = "/Ahmed_Yaqoob_Dhedhi_CV.docx.pdf"
+    link.download = "Ahmed_Yaqoob_Dhedhi_CV.docx.pdf"
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)
