@@ -1,10 +1,11 @@
-import { AiFillGithub, AiOutlineTwitter, AiFillYoutube, AiFillInstagram } from "react-icons/ai"
+import { AiFillGithub, AiOutlineTwitter, AiFillYoutube, AiFillInstagram, AiFillLinkedin} from "react-icons/ai"
 
 const socialLinks = [
   { href: "https://github.com/HamCraft", Icon: AiFillGithub, label: "GitHub" },
   { href: "https://x.com/HamCraftMC", Icon: AiOutlineTwitter, label: "X (Twitter)" },
   { href: "https://youtube.com/@HamCraft", Icon: AiFillYoutube, label: "Youtube" },
   { href: "https://instagram.com/ahmed_yaqoob_dhedhi", Icon: AiFillInstagram, label: "Instagram" },
+  { href: "https://linkedin.com/in/ahmed-yaqoob-dhedhi", Icon: AiFillLinkedin, label: "LinkedIn" },
 ]
 
 export const Footer = () => {
