@@ -1,4 +1,4 @@
-import { AiFillGithub, AiOutlineTwitter, AiFillYoutube, AiFillInstagram, AiFillLinkedin} from "react-icons/ai"
+import { AiFillGithub, AiOutlineTwitter, AiFillYoutube, AiFillInstagram, AiFillLinkedin,} from "react-icons/ai"
 
 const socialLinks = [
   { href: "https://github.com/HamCraft", Icon: AiFillGithub, label: "GitHub" },
