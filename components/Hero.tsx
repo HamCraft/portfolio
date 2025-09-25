@@ -56,12 +56,6 @@ export const Hero = () => {
           height={300}
           className="rounded-full mt-4"
         />
-        <div className="mt-4 grid bg-white/5 shadow-xl p-3 rounded-3xl justify-center items-center gap-2 mb-4 grid-flow-col">
-          <Image src={obj || "/placeholder.svg"} alt="object" width={30} className="rounded-2xl mx-auto" />
-          <Image src={obj || "/placeholder.svg"} alt="object" width={30} className="rounded-2xl mx-auto" />
-          <Image src={obj || "/placeholder.svg"} alt="object" width={30} className="rounded-2xl mx-auto" />
-          <p className="font-medium">80+ Happy Clients</p>
-        </div>
         <p className="my-6 max-w-xl text-center bold text-2xl">Software Engineer & Video Editor</p>
 
         <motion.button
