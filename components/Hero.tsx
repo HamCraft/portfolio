@@ -62,7 +62,7 @@ export const Hero = () => {
           <Image src={obj || "/placeholder.svg"} alt="object" width={30} className="rounded-2xl mx-auto" />
           <p className="font-medium">80+ Happy Clients</p>
         </div>
-        <p className="my-6 max-w-xl text-center">Front End Developer/Machine Learning Engineer/Video Editor</p>
+        <p className="my-6 max-w-xl text-center bold text-2xl">Software Engineer & Video Editor</p>
 
         <motion.button
           style={{
