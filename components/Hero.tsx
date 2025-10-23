@@ -56,7 +56,7 @@ export const Hero = () => {
           height={300}
           className="rounded-full mt-4"
         />
-        <p className="my-6 max-w-xl text-center bold text-2xl">Software Engineer & Video Editor</p>
+        <p className="my-6 max-w-xl text-center bold text-2xl">Software Engineer | Web Developer | Content Strategist/Writer | Graphic Designer | Content Creator </p>
 
         <motion.button
           style={{
